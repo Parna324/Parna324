@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAGA0w99_IY/IPtOn75dubR8ibg4Q9RItA/edit?utm_content=DAGA0w99_IY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Parna Ghosh</h1>
 <h3 align="center">A passionate software developer from Kolkata, West Bengal</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
