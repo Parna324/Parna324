@@ -1,21 +1,90 @@
-# 💫 About Me:
- I’m currently learning C, React, Tailwind, Python<br> All of my projects are available at https://github.com/Parna324<br> Fun fact: Foodie Enthusiast <br>
+<!-- Animated & Eye-Catching GitHub Profile README -->
 
+<h1 align="center">✨ Hey there, I'm <span style="color:#7C3AED;">Parna Ghosh</span> 👋</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avagv2023) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Parna Ghosh) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Parna) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Parna987980) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Parna780) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=06B6D4&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🚀+Open+Source+Contributor;🎨+UI%2FUX+Enthusiast;🧠+Tech+Explorer;⚡+Creative+Problem+Solver" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Parna324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Parna324&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parna324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Parna324&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/wave-header.svg" width="100%" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Parna324&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧩 About Me
+
+🌟 I’m a passionate developer who loves to blend **logic and creativity** to build visually appealing and efficient solutions.  
+💬 Ask me about **C++, Full Stack Development, and Creative UI Design**  
+🎯 My mission: *Turning ideas into visually stunning and impactful digital products.*  
+📫 Reach me at: [parnaghosh628@gmail.com]
+
+---
+
+### ⚙️ GitHub Stats & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" height="150" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mysql,git,github,vscode,linux,tailwind,figma&theme=dark" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description |
+|----------|--------------|
+| [🚀 Project One](https://github.com/Parna324/indian-culture-main) | A high-performance system tool designed for speed and efficiency. |
+| [🎨 Project Two](https://virtual-bartender-sandy.vercel.app/) | A modern UI project with smooth animations and stunning visuals. |
+| [⚙️ Project Three](https://stay-scouter.vercel.app/) | A production-ready, open-source framework for rapid development. |
+
+---
+
+### 🧠 Fun & Insights
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parnaghosh324/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Parna987980"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nisu.1456/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="parnaghosh628@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/wave-footer.svg" width="100%" />
+</p>
+
+<p align="center"><b>✨ Made with 💜 by <a href="https://github.com/YOUR_GITHUB_USERNAME">PARNA324</a></b></p>
